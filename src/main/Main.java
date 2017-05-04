@@ -1,3 +1,6 @@
+/**
+ * @author Gaut-vador <a href="mailto:gauthier.pirlet@gmail.com?Subject=Demineur" target="_top"></a>
+ */
 package main;
 
 import jeu.Plateau;
@@ -9,7 +12,5 @@ public class Main {
 		Plateau p = new Plateau(10, 10);
 		
 		System.out.println(p.toString());
-
 	}
-
 }
